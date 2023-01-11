@@ -90,9 +90,7 @@ export default {
 				{ key: "descripcion", label: "Descripción", sortable: true },
 				{ key: "categoria", label: "Categoría", sortable: true },
 			],
-			sortBy: "",
 			filter: null,
-			filterOn: [],
 		};
 	},
 	computed: {
